@@ -2,10 +2,10 @@
 * forked from [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)
 
 ## TODO LIST
-- [ ] origin/tutorial01
-- [ ] origin/tutorial02
-- [ ] origin/tutorial03
-- [ ] origin/tutorial04
+- [x] origin/tutorial01
+- [x] origin/tutorial02
+- [x] origin/tutorial03
+- [x] origin/tutorial04
 - [ ] origin/tutorial05
 - [ ] origin/tutorial06
 - [ ] origin/tutorial07
